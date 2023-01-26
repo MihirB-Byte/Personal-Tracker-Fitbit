@@ -1,1 +1,1 @@
-# Person-Tracker-Fitbit
+# Personal-Tracker-Fitbit
