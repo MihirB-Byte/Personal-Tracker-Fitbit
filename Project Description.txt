@@ -1,4 +1,22 @@
 Project Scope: 
+
   -Retrieve personal data from Fitbit tracker using API call. 
   -Create a sql database with the data retrieved. 
   -Write a script to trigger API call every month to facilitate the growth of database. 
+  
+Questions to address:
+  -What data do to extract from the dataset?
+  
+
+
+
+Project Log:
+
+  -Downladed sample monthly and weekly data from fitbit.
+  -Observing the format of sample data, data cleansing and formatting might be need to extract relevent information.
+  
+  
+  
+Tasks:
+  -Write a python script to cleanse and format the data.
+  
